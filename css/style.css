@@ -5,6 +5,18 @@ body {
 	position: relative;
 	width: auto;
 }
+.nutmxh{
+	top:30%;
+	right: 0;
+	position: fixed;
+	display: block;
+	z-index: 100;
+	width: 50px;
+	height: 100px;
+	border: solid cadetblue;
+	border-radius: 5px;
+	box-shadow: 0 5px 5px violet;
+}
 body #page {
 	margin: 0;
 	overflow: hidden;
